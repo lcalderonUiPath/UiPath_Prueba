@@ -1,0 +1,713 @@
+﻿23:48:46: Inicia proceso automatico del robot: [Reporte - Nomina][Acumulado]
+23:48:47: Enviando correo electrónico
+23:48:47: Configuraciones de correo asignadas correctamente
+23:48:49: Proceso de correo electrónico ejecutado correctamente
+23:48:50: Iniciando conexión con servidor de correo
+23:48:51: Obteniendo mails con el asunto: RPA NOMINA
+23:48:53: Se obtivierón 7 correos validos.
+23:48:53: De acuerdo a la configuración de Asunto, tipo y nombre se ha encontrado un adjunto valido, procediendo con la descarga
+23:48:53: Eliminando archivos temporales
+23:48:53: Guardando archivo
+23:48:53: Proceso de obtención de información terminado
+23:48:55: Inicia proceso para el mes de enero
+23:48:55: Realizando lectura del reporte de nomina
+23:48:57: Validando archivo acumulado existente
+23:49:16: Iniciando con la validación de conceptos
+23:49:16: Verificando concepto: 500 SUELDO (Impte)
+23:49:17: Verificando concepto: 500 SUELDO (Vt)
+23:49:18: Verificando concepto: 505 SUB ENF 100% (Impte)
+23:49:18: Verificando concepto: 505 SUB ENF 100% (Vt)
+23:49:19: Verificando concepto: 506 SUB ENF 40% (Impte)
+23:49:19: Verificando concepto: 506 SUB ENF 40% (Vt)
+23:49:20: Verificando concepto: 507 SUB MATERN (Impte)
+23:49:21: Verificando concepto: 507 SUB MATERN (Vt)
+23:49:21: Verificando concepto: 514 CLASES MCPP (Impte)
+23:49:22: Creando concepto
+23:49:23: Diseño de concepto creado correctamente
+23:49:23: Verificando concepto: 514 CLASES MCPP (Vt)
+23:49:24: Creando concepto
+23:49:25: Diseño de concepto creado correctamente
+23:49:25: Verificando concepto: 517 EXAMEN_PROF MGPPS (Impte)
+23:49:26: Creando concepto
+23:49:27: Diseño de concepto creado correctamente
+23:49:27: Verificando concepto: 517 EXAMEN_PROF MGPPS (Vt)
+23:49:27: Creando concepto
+23:49:29: Diseño de concepto creado correctamente
+23:49:29: Verificando concepto: 520 FONDO AHORRO (Impte)
+23:49:29: Verificando concepto: 520 FONDO AHORRO (Vt)
+23:49:30: Verificando concepto: 521 PRIMA VAC (Impte)
+23:49:31: Verificando concepto: 521 PRIMA VAC (Vt)
+23:49:31: Verificando concepto: 523 GRATIF 12051101 ESDAI (Impte)
+23:49:32: Creando concepto
+23:49:33: Diseño de concepto creado correctamente
+23:49:33: Verificando concepto: 523 GRATIF 12051101 ESDAI (Vt)
+23:49:33: Creando concepto
+23:49:34: Diseño de concepto creado correctamente
+23:49:34: Verificando concepto: 524 GRATIF 13011101 Comunicso (Impte)
+23:49:35: Creando concepto
+23:49:36: Diseño de concepto creado correctamente
+23:49:36: Verificando concepto: 524 GRATIF 13011101 Comunicso (Vt)
+23:49:37: Creando concepto
+23:49:38: Diseño de concepto creado correctamente
+23:49:38: Verificando concepto: 525 GRATIF 13021101 Derecho (Impte)
+23:49:39: Creando concepto
+23:49:40: Diseño de concepto creado correctamente
+23:49:40: Verificando concepto: 525 GRATIF 13021101 Derecho (Vt)
+23:49:40: Creando concepto
+23:49:41: Diseño de concepto creado correctamente
+23:49:41: Verificando concepto: 526 GRATIF 13041101 Pedagogía (Impte)
+23:49:42: Creando concepto
+23:49:43: Diseño de concepto creado correctamente
+23:49:43: Verificando concepto: 526 GRATIF 13041101 Pedagogía (Vt)
+23:49:44: Creando concepto
+23:49:45: Diseño de concepto creado correctamente
+23:49:46: Verificando concepto: 531 GRATIF 21021105 ComInstit (Impte)
+23:49:46: Creando concepto
+23:49:47: Diseño de concepto creado correctamente
+23:49:47: Verificando concepto: 531 GRATIF 21021105 ComInstit (Vt)
+23:49:48: Creando concepto
+23:49:49: Diseño de concepto creado correctamente
+23:49:49: Verificando concepto: 533 CLASES MFIN (Impte)
+23:49:50: Creando concepto
+23:49:51: Diseño de concepto creado correctamente
+23:49:51: Verificando concepto: 533 CLASES MFIN (Vt)
+23:49:52: Creando concepto
+23:49:53: Diseño de concepto creado correctamente
+23:49:53: Verificando concepto: 534 GRATIF 22041102 DirOp (Impte)
+23:49:54: Creando concepto
+23:49:55: Diseño de concepto creado correctamente
+23:49:55: Verificando concepto: 534 GRATIF 22041102 DirOp (Vt)
+23:49:56: Creando concepto
+23:49:57: Diseño de concepto creado correctamente
+23:49:57: Verificando concepto: 538 GRATIF 22041111 CD UP (Impte)
+23:49:58: Creando concepto
+23:49:59: Diseño de concepto creado correctamente
+23:49:59: Verificando concepto: 538 GRATIF 22041111 CD UP (Vt)
+23:49:59: Creando concepto
+23:50:00: Diseño de concepto creado correctamente
+23:50:00: Verificando concepto: 540 CLASES MESCO (Impte)
+23:50:01: Creando concepto
+23:50:02: Diseño de concepto creado correctamente
+23:50:02: Verificando concepto: 540 CLASES MESCO (Vt)
+23:50:03: Creando concepto
+23:50:04: Diseño de concepto creado correctamente
+23:50:04: Verificando concepto: 542 GRATIF-M (Impte)
+23:50:05: Creando concepto
+23:50:06: Diseño de concepto creado correctamente
+23:50:06: Verificando concepto: 542 GRATIF-M (Vt)
+23:50:07: Creando concepto
+23:50:08: Diseño de concepto creado correctamente
+23:50:08: Verificando concepto: 543 GRATIF 13031101 FILOSOFÍA (Impte)
+23:50:08: Creando concepto
+23:50:09: Diseño de concepto creado correctamente
+23:50:10: Verificando concepto: 543 GRATIF 13031101 FILOSOFÍA (Vt)
+23:50:10: Creando concepto
+23:50:11: Diseño de concepto creado correctamente
+23:50:12: Verificando concepto: 544 GRATIF 13046101 PROG. ESP (Impte)
+23:50:12: Creando concepto
+23:50:13: Diseño de concepto creado correctamente
+23:50:13: Verificando concepto: 544 GRATIF 13046101 PROG. ESP (Vt)
+23:50:14: Creando concepto
+23:50:15: Diseño de concepto creado correctamente
+23:50:15: Verificando concepto: 547 GRATIF 21051102 RELAC. PU (Impte)
+23:50:16: Creando concepto
+23:50:17: Diseño de concepto creado correctamente
+23:50:17: Verificando concepto: 547 GRATIF 21051102 RELAC. PU (Vt)
+23:50:17: Creando concepto
+23:50:18: Diseño de concepto creado correctamente
+23:50:19: Verificando concepto: 548 GRATIF 22011102 AREA GRAL (Impte)
+23:50:19: Creando concepto
+23:50:20: Diseño de concepto creado correctamente
+23:50:20: Verificando concepto: 548 GRATIF 22011102 AREA GRAL (Vt)
+23:50:21: Creando concepto
+23:50:22: Diseño de concepto creado correctamente
+23:50:22: Verificando concepto: 549 GRATIF 22051101 TI (Impte)
+23:50:23: Creando concepto
+23:50:24: Diseño de concepto creado correctamente
+23:50:24: Verificando concepto: 549 GRATIF 22051101 TI (Vt)
+23:50:25: Creando concepto
+23:50:26: Diseño de concepto creado correctamente
+23:50:26: Verificando concepto: 551 GRATIF 23011107 COMP. SOC (Impte)
+23:50:27: Creando concepto
+23:50:28: Diseño de concepto creado correctamente
+23:50:28: Verificando concepto: 551 GRATIF 23011107 COMP. SOC (Vt)
+23:50:29: Creando concepto
+23:50:30: Diseño de concepto creado correctamente
+23:50:30: Verificando concepto: 553 GRATIF 23011127 RG (Impte)
+23:50:31: Creando concepto
+23:50:32: Diseño de concepto creado correctamente
+23:50:32: Verificando concepto: 553 GRATIF 23011127 RG (Vt)
+23:50:32: Creando concepto
+23:50:33: Diseño de concepto creado correctamente
+23:50:33: Verificando concepto: 557 GRATIF 13091103 LicGob (Impte)
+23:50:34: Creando concepto
+23:50:35: Diseño de concepto creado correctamente
+23:50:35: Verificando concepto: 557 GRATIF 13091103 LicGob (Vt)
+23:50:36: Creando concepto
+23:50:37: Diseño de concepto creado correctamente
+23:50:37: Verificando concepto: 558 GRATIF 23021130 AdmCpMX (Impte)
+23:50:38: Creando concepto
+23:50:40: Diseño de concepto creado correctamente
+23:50:40: Verificando concepto: 558 GRATIF 23021130 AdmCpMX (Vt)
+23:50:40: Creando concepto
+23:50:41: Diseño de concepto creado correctamente
+23:50:41: Verificando concepto: 560 GRATIF 23021126 SMART (Impte)
+23:50:42: Creando concepto
+23:50:43: Diseño de concepto creado correctamente
+23:50:43: Verificando concepto: 560 GRATIF 23021126 SMART (Vt)
+23:50:44: Creando concepto
+23:50:45: Diseño de concepto creado correctamente
+23:50:45: Verificando concepto: 561 GRATIF 23041203 SrAcdECEE (Impte)
+23:50:45: Creando concepto
+23:50:47: Diseño de concepto creado correctamente
+23:50:47: Verificando concepto: 561 GRATIF 23041203 SrAcdECEE (Vt)
+23:50:47: Creando concepto
+23:50:49: Diseño de concepto creado correctamente
+23:50:49: Verificando concepto: 564 GRATIF 21061102 ALUMNI (Impte)
+23:50:49: Creando concepto
+23:50:50: Diseño de concepto creado correctamente
+23:50:50: Verificando concepto: 564 GRATIF 21061102 ALUMNI (Vt)
+23:50:51: Creando concepto
+23:50:52: Diseño de concepto creado correctamente
+23:50:52: Verificando concepto: 565 GRATIF 22021102 Dir Adm (Impte)
+23:50:53: Creando concepto
+23:50:54: Diseño de concepto creado correctamente
+23:50:54: Verificando concepto: 565 GRATIF 22021102 Dir Adm (Vt)
+23:50:54: Creando concepto
+23:50:56: Diseño de concepto creado correctamente
+23:50:56: Verificando concepto: 566 GRATIF 22051103 DIP (Impte)
+23:50:56: Creando concepto
+23:50:57: Diseño de concepto creado correctamente
+23:50:58: Verificando concepto: 566 GRATIF 22051103 DIP (Vt)
+23:50:58: Creando concepto
+23:50:59: Diseño de concepto creado correctamente
+23:50:59: Verificando concepto: 567 GRATIF 23021123 Vic Inv (Impte)
+23:51:00: Creando concepto
+23:51:01: Diseño de concepto creado correctamente
+23:51:02: Verificando concepto: 567 GRATIF 23021123 Vic Inv (Vt)
+23:51:02: Creando concepto
+23:51:03: Diseño de concepto creado correctamente
+23:51:04: Verificando concepto: 575 ASESORIA_UNI PREPA (Impte)
+23:51:04: Creando concepto
+23:51:05: Diseño de concepto creado correctamente
+23:51:05: Verificando concepto: 575 ASESORIA_UNI PREPA (Vt)
+23:51:06: Creando concepto
+23:51:07: Diseño de concepto creado correctamente
+23:51:07: Verificando concepto: 577 UPGRATFM (Impte)
+23:51:07: Creando concepto
+23:51:09: Diseño de concepto creado correctamente
+23:51:09: Verificando concepto: 577 UPGRATFM (Vt)
+23:51:09: Creando concepto
+23:51:10: Diseño de concepto creado correctamente
+23:51:10: Verificando concepto: 578 CLASES CLASES (Impte)
+23:51:11: Creando concepto
+23:51:12: Diseño de concepto creado correctamente
+23:51:12: Verificando concepto: 578 CLASES CLASES (Vt)
+23:51:13: Creando concepto
+23:51:14: Diseño de concepto creado correctamente
+23:51:14: Verificando concepto: 581 GRATIF 13021103 LicDerUP (Impte)
+23:51:15: Creando concepto
+23:51:16: Diseño de concepto creado correctamente
+23:51:17: Verificando concepto: 581 GRATIF 13021103 LicDerUP (Vt)
+23:51:17: Creando concepto
+23:51:18: Diseño de concepto creado correctamente
+23:51:18: Verificando concepto: 583 GRATIF 13094103 MaeAntcor (Impte)
+23:51:19: Creando concepto
+23:51:20: Diseño de concepto creado correctamente
+23:51:20: Verificando concepto: 583 GRATIF 13094103 MaeAntcor (Vt)
+23:51:21: Creando concepto
+23:51:22: Diseño de concepto creado correctamente
+23:51:22: Verificando concepto: 584 GRATIF 14031101 Ing. (Impte)
+23:51:23: Creando concepto
+23:51:24: Diseño de concepto creado correctamente
+23:51:24: Verificando concepto: 584 GRATIF 14031101 Ing. (Vt)
+23:51:24: Creando concepto
+23:51:25: Diseño de concepto creado correctamente
+23:51:25: Verificando concepto: 585 SUB EMP EFEC. (Impte)
+23:51:26: Creando concepto
+23:51:27: Diseño de concepto creado correctamente
+23:51:27: Verificando concepto: 585 SUB EMP EFEC. (Vt)
+23:51:28: Creando concepto
+23:51:29: Diseño de concepto creado correctamente
+23:51:29: Verificando concepto: 586 DEV DE ISR (Impte)
+23:51:30: Creando concepto
+23:51:31: Diseño de concepto creado correctamente
+23:51:31: Verificando concepto: 586 DEV DE ISR (Vt)
+23:51:32: Creando concepto
+23:51:34: Diseño de concepto creado correctamente
+23:51:34: Verificando concepto: 588 GRATIF 23021103 SecGrlMx (Impte)
+23:51:34: Creando concepto
+23:51:36: Diseño de concepto creado correctamente
+23:51:36: Verificando concepto: 588 GRATIF 23021103 SecGrlMx (Vt)
+23:51:36: Creando concepto
+23:51:38: Diseño de concepto creado correctamente
+23:51:38: Verificando concepto: 589 EVE_EVENTOS_ESP MBIO (Impte)
+23:51:38: Creando concepto
+23:51:39: Diseño de concepto creado correctamente
+23:51:40: Verificando concepto: 589 EVE_EVENTOS_ESP MBIO (Vt)
+23:51:40: Creando concepto
+23:51:41: Diseño de concepto creado correctamente
+23:51:41: Verificando concepto: 590 GRATIF 23021108 VicAcad (Impte)
+23:51:42: Creando concepto
+23:51:43: Diseño de concepto creado correctamente
+23:51:43: Verificando concepto: 590 GRATIF 23021108 VicAcad (Vt)
+23:51:43: Creando concepto
+23:51:45: Diseño de concepto creado correctamente
+23:51:45: Verificando concepto: 592 GRATIF 13044101 PEDAGOGÍA (Impte)
+23:51:45: Creando concepto
+23:51:46: Diseño de concepto creado correctamente
+23:51:47: Verificando concepto: 592 GRATIF 13044101 PEDAGOGÍA (Vt)
+23:51:47: Creando concepto
+23:51:48: Diseño de concepto creado correctamente
+23:51:48: Verificando concepto: 593 GRATIF 21021108 C.E.P.I.I (Impte)
+23:51:49: Creando concepto
+23:51:50: Diseño de concepto creado correctamente
+23:51:50: Verificando concepto: 593 GRATIF 21021108 C.E.P.I.I (Vt)
+23:51:51: Creando concepto
+23:51:52: Diseño de concepto creado correctamente
+23:51:52: Verificando concepto: 594 GRATIF 22031108 DIR PERSO (Impte)
+23:51:52: Creando concepto
+23:51:53: Diseño de concepto creado correctamente
+23:51:54: Verificando concepto: 594 GRATIF 22031108 DIR PERSO (Vt)
+23:51:54: Creando concepto
+23:51:55: Diseño de concepto creado correctamente
+23:51:55: Verificando concepto: 595 GRATIF 22041106 BOSQREAL (Impte)
+23:51:56: Creando concepto
+23:51:57: Diseño de concepto creado correctamente
+23:51:57: Verificando concepto: 595 GRATIF 22041106 BOSQREAL (Vt)
+23:51:58: Creando concepto
+23:51:59: Diseño de concepto creado correctamente
+23:51:59: Verificando concepto: 596 GRATIF 12071103 LicEcon (Impte)
+23:52:00: Creando concepto
+23:52:01: Diseño de concepto creado correctamente
+23:52:02: Verificando concepto: 596 GRATIF 12071103 LicEcon (Vt)
+23:52:02: Creando concepto
+23:52:03: Diseño de concepto creado correctamente
+23:52:03: Verificando concepto: 597 GRATIF 23021106 VicCam (Impte)
+23:52:04: Creando concepto
+23:52:05: Diseño de concepto creado correctamente
+23:52:05: Verificando concepto: 597 GRATIF 23021106 VicCam (Vt)
+23:52:06: Creando concepto
+23:52:06: Diseño de concepto creado correctamente
+23:52:06: Verificando concepto: 598 CLASES DCEMP (Impte)
+23:52:07: Creando concepto
+23:52:08: Diseño de concepto creado correctamente
+23:52:08: Verificando concepto: 598 CLASES DCEMP (Vt)
+23:52:09: Creando concepto
+23:52:10: Diseño de concepto creado correctamente
+23:52:10: Verificando concepto: 599 APOYO_ACADEM MNE (Impte)
+23:52:11: Creando concepto
+23:52:12: Diseño de concepto creado correctamente
+23:52:12: Verificando concepto: 599 APOYO_ACADEM MNE (Vt)
+23:52:12: Creando concepto
+23:52:13: Diseño de concepto creado correctamente
+23:52:14: Verificando concepto: 614 ASESORIA_UNI EGCH (Impte)
+23:52:14: Creando concepto
+23:52:15: Diseño de concepto creado correctamente
+23:52:15: Verificando concepto: 614 ASESORIA_UNI EGCH (Vt)
+23:52:16: Creando concepto
+23:52:17: Diseño de concepto creado correctamente
+23:52:17: Verificando concepto: 621 CLASES CIDM (Impte)
+23:52:18: Creando concepto
+23:52:19: Diseño de concepto creado correctamente
+23:52:19: Verificando concepto: 621 CLASES CIDM (Vt)
+23:52:20: Creando concepto
+23:52:21: Diseño de concepto creado correctamente
+23:52:21: Verificando concepto: 622 CLASES CPED (Impte)
+23:52:22: Creando concepto
+23:52:23: Diseño de concepto creado correctamente
+23:52:23: Verificando concepto: 622 CLASES CPED (Vt)
+23:52:24: Creando concepto
+23:52:25: Diseño de concepto creado correctamente
+23:52:25: Verificando concepto: 624 CLASES EANFI (Impte)
+23:52:26: Creando concepto
+23:52:27: Diseño de concepto creado correctamente
+23:52:27: Verificando concepto: 624 CLASES EANFI (Vt)
+23:52:27: Creando concepto
+23:52:29: Diseño de concepto creado correctamente
+23:52:29: Verificando concepto: 625 EXAMEN_PROF EGCH (Impte)
+23:52:29: Creando concepto
+23:52:30: Diseño de concepto creado correctamente
+23:52:31: Verificando concepto: 625 EXAMEN_PROF EGCH (Vt)
+23:52:31: Creando concepto
+23:52:33: Diseño de concepto creado correctamente
+23:52:33: Verificando concepto: 626 CLASES EDIOP (Impte)
+23:52:33: Creando concepto
+23:52:34: Diseño de concepto creado correctamente
+23:52:35: Verificando concepto: 626 CLASES EDIOP (Vt)
+23:52:35: Creando concepto
+23:52:36: Diseño de concepto creado correctamente
+23:52:36: Verificando concepto: 627 EXAMEN_PROF MIDFS (Impte)
+23:52:37: Creando concepto
+23:52:38: Diseño de concepto creado correctamente
+23:52:38: Verificando concepto: 627 EXAMEN_PROF MIDFS (Vt)
+23:52:39: Creando concepto
+23:52:40: Diseño de concepto creado correctamente
+23:52:40: Verificando concepto: 629 CLASES EIGEP (Impte)
+23:52:40: Creando concepto
+23:52:42: Diseño de concepto creado correctamente
+23:52:42: Verificando concepto: 629 CLASES EIGEP (Vt)
+23:52:42: Creando concepto
+23:52:43: Diseño de concepto creado correctamente
+23:52:43: Verificando concepto: 631 CLASES ELOIN (Impte)
+23:52:44: Creando concepto
+23:52:45: Diseño de concepto creado correctamente
+23:52:45: Verificando concepto: 631 CLASES ELOIN (Vt)
+23:52:46: Creando concepto
+23:52:47: Diseño de concepto creado correctamente
+23:52:47: Verificando concepto: 632 CLASES EROMA (Impte)
+23:52:48: Creando concepto
+23:52:49: Diseño de concepto creado correctamente
+23:52:49: Verificando concepto: 632 CLASES EROMA (Vt)
+23:52:50: Creando concepto
+23:52:51: Diseño de concepto creado correctamente
+23:52:51: Verificando concepto: 633 APOYO_ACADEM EANFI (Impte)
+23:52:52: Creando concepto
+23:52:53: Diseño de concepto creado correctamente
+23:52:54: Verificando concepto: 633 APOYO_ACADEM EANFI (Vt)
+23:52:54: Creando concepto
+23:52:55: Diseño de concepto creado correctamente
+23:52:55: Verificando concepto: 634 CLASES ESIMG (Impte)
+23:52:56: Creando concepto
+23:52:57: Diseño de concepto creado correctamente
+23:52:57: Verificando concepto: 634 CLASES ESIMG (Vt)
+23:52:58: Creando concepto
+23:52:59: Diseño de concepto creado correctamente
+23:52:59: Verificando concepto: 643 EVE_EVENTOS_ESP LMDN (Impte)
+23:53:00: Creando concepto
+23:53:01: Diseño de concepto creado correctamente
+23:53:01: Verificando concepto: 643 EVE_EVENTOS_ESP LMDN (Vt)
+23:53:01: Creando concepto
+23:53:03: Diseño de concepto creado correctamente
+23:53:03: Verificando concepto: 649 CLASES MNE (Impte)
+23:53:04: Creando concepto
+23:53:05: Diseño de concepto creado correctamente
+23:53:05: Verificando concepto: 649 CLASES MNE (Vt)
+23:53:06: Creando concepto
+23:53:07: Diseño de concepto creado correctamente
+23:53:07: Verificando concepto: 653 CLASES MING (Impte)
+23:53:08: Creando concepto
+23:53:09: Diseño de concepto creado correctamente
+23:53:09: Verificando concepto: 653 CLASES MING (Vt)
+23:53:10: Creando concepto
+23:53:11: Diseño de concepto creado correctamente
+23:53:11: Verificando concepto: 654 CLASES MNPAU (Impte)
+23:53:12: Creando concepto
+23:53:13: Diseño de concepto creado correctamente
+23:53:13: Verificando concepto: 654 CLASES MNPAU (Vt)
+23:53:14: Creando concepto
+23:53:15: Diseño de concepto creado correctamente
+23:53:15: Verificando concepto: 656 GRATIF 23011102 DirRecAca (Impte)
+23:53:16: Creando concepto
+23:53:17: Diseño de concepto creado correctamente
+23:53:17: Verificando concepto: 656 GRATIF 23011102 DirRecAca (Vt)
+23:53:18: Creando concepto
+23:53:19: Diseño de concepto creado correctamente
+23:53:20: Verificando concepto: 657 CLASES PREPV (Impte)
+23:53:21: Creando concepto
+23:53:23: Diseño de concepto creado correctamente
+23:53:23: Verificando concepto: 657 CLASES PREPV (Vt)
+23:53:24: Creando concepto
+23:53:26: Diseño de concepto creado correctamente
+23:53:26: Verificando concepto: 658 CLASES EGCH (Impte)
+23:53:27: Creando concepto
+23:53:28: Diseño de concepto creado correctamente
+23:53:29: Verificando concepto: 658 CLASES EGCH (Vt)
+23:53:29: Creando concepto
+23:53:30: Diseño de concepto creado correctamente
+23:53:30: Verificando concepto: 662 CLASES MCD (Impte)
+23:53:31: Creando concepto
+23:53:33: Diseño de concepto creado correctamente
+23:53:33: Verificando concepto: 662 CLASES MCD (Vt)
+23:53:34: Creando concepto
+23:53:35: Diseño de concepto creado correctamente
+23:53:35: Verificando concepto: 663 CLASES MAP (Impte)
+23:53:36: Creando concepto
+23:53:38: Diseño de concepto creado correctamente
+23:53:38: Verificando concepto: 663 CLASES MAP (Vt)
+23:53:39: Creando concepto
+23:53:40: Diseño de concepto creado correctamente
+23:53:40: Verificando concepto: 667 CLASES PIRH (Impte)
+23:53:42: Creando concepto
+23:53:43: Diseño de concepto creado correctamente
+23:53:43: Verificando concepto: 667 CLASES PIRH (Vt)
+23:53:43: Creando concepto
+23:53:44: Diseño de concepto creado correctamente
+23:53:44: Verificando concepto: 669 CLASES MHPS (Impte)
+23:53:45: Creando concepto
+23:53:46: Diseño de concepto creado correctamente
+23:53:47: Verificando concepto: 669 CLASES MHPS (Vt)
+23:53:48: Creando concepto
+23:53:49: Diseño de concepto creado correctamente
+23:53:49: Verificando concepto: 670 CLASES MGPPS (Impte)
+23:53:50: Creando concepto
+23:53:52: Diseño de concepto creado correctamente
+23:53:52: Verificando concepto: 670 CLASES MGPPS (Vt)
+23:53:53: Creando concepto
+23:53:54: Diseño de concepto creado correctamente
+23:53:54: Verificando concepto: 671 CLASES PREPA (Impte)
+23:53:55: Creando concepto
+23:53:57: Diseño de concepto creado correctamente
+23:53:57: Verificando concepto: 671 CLASES PREPA (Vt)
+23:53:58: Creando concepto
+23:54:00: Diseño de concepto creado correctamente
+23:54:00: Verificando concepto: 672 CLASES MESCS (Impte)
+23:54:00: Creando concepto
+23:54:01: Diseño de concepto creado correctamente
+23:54:02: Verificando concepto: 672 CLASES MESCS (Vt)
+23:54:02: Creando concepto
+23:54:03: Diseño de concepto creado correctamente
+23:54:04: Verificando concepto: 674 CLASES EDEMP (Impte)
+23:54:04: Creando concepto
+23:54:06: Diseño de concepto creado correctamente
+23:54:06: Verificando concepto: 674 CLASES EDEMP (Vt)
+23:54:06: Creando concepto
+23:54:07: Diseño de concepto creado correctamente
+23:54:08: Verificando concepto: 678 CLASES MIFS (Impte)
+23:54:08: Creando concepto
+23:54:09: Diseño de concepto creado correctamente
+23:54:09: Verificando concepto: 678 CLASES MIFS (Vt)
+23:54:10: Creando concepto
+23:54:11: Diseño de concepto creado correctamente
+23:54:11: Verificando concepto: 679 GRATIF 14115101 Mat Aplic (Impte)
+23:54:12: Creando concepto
+23:54:14: Diseño de concepto creado correctamente
+23:54:14: Verificando concepto: 679 GRATIF 14115101 Mat Aplic (Vt)
+23:54:14: Creando concepto
+23:54:16: Diseño de concepto creado correctamente
+23:54:16: Verificando concepto: 680 CLASES EIGA (Impte)
+23:54:16: Creando concepto
+23:54:18: Diseño de concepto creado correctamente
+23:54:18: Verificando concepto: 680 CLASES EIGA (Vt)
+23:54:18: Creando concepto
+23:54:20: Diseño de concepto creado correctamente
+23:54:20: Verificando concepto: 681 CLASES MCOMI (Impte)
+23:54:20: Creando concepto
+23:54:22: Diseño de concepto creado correctamente
+23:54:22: Verificando concepto: 681 CLASES MCOMI (Vt)
+23:54:22: Creando concepto
+23:54:24: Diseño de concepto creado correctamente
+23:54:24: Verificando concepto: 685 CLASES MFIAT (Impte)
+23:54:24: Creando concepto
+23:54:26: Diseño de concepto creado correctamente
+23:54:26: Verificando concepto: 685 CLASES MFIAT (Vt)
+23:54:27: Creando concepto
+23:54:28: Diseño de concepto creado correctamente
+23:54:28: Verificando concepto: Neto Percepciones
+23:54:29: Verificando concepto: 700 INCAP ENFERM (Impte)
+23:54:29: Verificando concepto: 700 INCAP ENFERM (Vt)
+23:54:30: Verificando concepto: 701 INCAP MATERN (Impte)
+23:54:31: Verificando concepto: 701 INCAP MATERN (Vt)
+23:54:31: Verificando concepto: 720 CUOTA IMSS E (Impte)
+23:54:32: Verificando concepto: 720 CUOTA IMSS E (Vt)
+23:54:32: Verificando concepto: 725 I.S.R. (Impte)
+23:54:33: Verificando concepto: 725 I.S.R. (Vt)
+23:54:34: Verificando concepto: 729 I.S.R. Ajuste Anual (Impte)
+23:54:34: Creando concepto
+23:54:36: Diseño de concepto creado correctamente
+23:54:36: Verificando concepto: 729 I.S.R. Ajuste Anual (Vt)
+23:54:36: Creando concepto
+23:54:37: Diseño de concepto creado correctamente
+23:54:38: Verificando concepto: 740 CRED INFONAV (Impte)
+23:54:38: Verificando concepto: 740 CRED INFONAV (Vt)
+23:54:39: Verificando concepto: 741 FONACOT (Impte)
+23:54:39: Verificando concepto: 741 FONACOT (Vt)
+23:54:40: Verificando concepto: 742 FDO AHOR EMP (Impte)
+23:54:41: Verificando concepto: 742 FDO AHOR EMP (Vt)
+23:54:41: Verificando concepto: 743 F AO (Impte)
+23:54:42: Verificando concepto: 743 F AO (Vt)
+23:54:43: Verificando concepto: 744 P PENSION (Impte)
+23:54:43: Verificando concepto: 744 P PENSION (Vt)
+23:54:44: Verificando concepto: 746 PENSION T-I (Impte)
+23:54:45: Verificando concepto: 746 PENSION T-I (Vt)
+23:54:45: Verificando concepto: 750 AJ_INFONAVIT (Impte)
+23:54:46: Verificando concepto: 750 AJ_INFONAVIT (Vt)
+23:54:46: Verificando concepto: 752 ORDINARIO (Impte)
+23:54:47: Verificando concepto: 752 ORDINARIO (Vt)
+23:54:48: Verificando concepto: 753 ORDINARIO FUERA (Impte)
+23:54:49: Verificando concepto: 753 ORDINARIO FUERA (Vt)
+23:54:49: Verificando concepto: 758 EQUIPO DE COMPUTO (Impte)
+23:54:50: Verificando concepto: 758 EQUIPO DE COMPUTO (Vt)
+23:54:50: Verificando concepto: 761 SEG GTOS MED (Impte)
+23:54:51: Verificando concepto: 761 SEG GTOS MED (Vt)
+23:54:52: Verificando concepto: 762 SEGURO AUTO (Impte)
+23:54:52: Verificando concepto: 762 SEGURO AUTO (Vt)
+23:54:53: Verificando concepto: 780 EXTRAORDINARIO (Impte)
+23:54:53: Verificando concepto: 780 EXTRAORDINARIO (Vt)
+23:54:54: Verificando concepto: 781 PENSION ALIMENTICIA (Impte)
+23:54:55: Verificando concepto: 781 PENSION ALIMENTICIA (Vt)
+23:54:55: Verificando concepto: Neto Deducciones
+23:54:56: Verificando concepto: Importe Neto
+23:54:56: Verificando concepto: 300 EYM Cuota Fija Patron (Impte)
+23:54:57: Verificando concepto: 300 EYM Cuota Fija Patron (Vt)
+23:54:58: Verificando concepto: 301 EYM Excedente Patron (Impte)
+23:54:58: Verificando concepto: 301 EYM Excedente Patron (Vt)
+23:54:59: Verificando concepto: 302 EYM Prest Dinero Patron (Impte)
+23:54:59: Verificando concepto: 302 EYM Prest Dinero Patron (Vt)
+23:55:00: Verificando concepto: 303 EYM Especie Patron (Impte)
+23:55:01: Verificando concepto: 303 EYM Especie Patron (Vt)
+23:55:01: Verificando concepto: 304 Inv y Vida Patron (Impte)
+23:55:02: Verificando concepto: 304 Inv y Vida Patron (Vt)
+23:55:03: Verificando concepto: 305 Cesantia y Vejez Patron (Impte)
+23:55:03: Verificando concepto: 305 Cesantia y Vejez Patron (Vt)
+23:55:04: Verificando concepto: 306 Guarderias Patron (Impte)
+23:55:04: Verificando concepto: 306 Guarderias Patron (Vt)
+23:55:05: Verificando concepto: 307 Riesgo Trabajo Patron (Impte)
+23:55:05: Verificando concepto: 307 Riesgo Trabajo Patron (Vt)
+23:55:06: Verificando concepto: 308 EYM E3S EMP (Impte)
+23:55:07: Verificando concepto: 308 EYM E3S EMP (Vt)
+23:55:07: Verificando concepto: 309 EYM PD EMP (Impte)
+23:55:08: Verificando concepto: 309 EYM PD EMP (Vt)
+23:55:09: Verificando concepto: 310 EYM PE EMP (Impte)
+23:55:09: Verificando concepto: 310 EYM PE EMP (Vt)
+23:55:10: Verificando concepto: 311 IYV EMP (Impte)
+23:55:11: Verificando concepto: 311 IYV EMP (Vt)
+23:55:11: Verificando concepto: 312 CYV EMP (Impte)
+23:55:12: Verificando concepto: 312 CYV EMP (Vt)
+23:55:12: Verificando concepto: 315 PROV SEGURO SOCIAL (Impte)
+23:55:13: Verificando concepto: 315 PROV SEGURO SOCIAL (Vt)
+23:55:14: Verificando concepto: 316 PROV SAR (Impte)
+23:55:14: Verificando concepto: 316 PROV SAR (Vt)
+23:55:15: Verificando concepto: 317 PROV INFONAVIT (Impte)
+23:55:16: Verificando concepto: 317 PROV INFONAVIT (Vt)
+23:55:16: Verificando concepto: 318 PROV CESANTIA (Impte)
+23:55:17: Verificando concepto: 318 PROV CESANTIA (Vt)
+23:55:18: Verificando concepto: 319 Base Impuesto Estatal (Impte)
+23:55:18: Verificando concepto: 319 Base Impuesto Estatal (Vt)
+23:55:19: Verificando concepto: 329 Impto Estatal CDMX (Impte)
+23:55:19: Verificando concepto: 329 Impto Estatal CDMX (Vt)
+23:55:20: Verificando concepto: 359 ESPO Gratificaciones (Impte)
+23:55:20: Creando concepto
+23:55:21: Diseño de concepto creado correctamente
+23:55:22: Verificando concepto: 359 ESPO Gratificaciones (Vt)
+23:55:22: Creando concepto
+23:55:23: Diseño de concepto creado correctamente
+23:55:24: Verificando concepto: 360 ESPA Clases (Impte)
+23:55:24: Creando concepto
+23:55:26: Diseño de concepto creado correctamente
+23:55:26: Verificando concepto: 360 ESPA Clases (Vt)
+23:55:26: Creando concepto
+23:55:28: Diseño de concepto creado correctamente
+23:55:28: Verificando concepto: 361 FE POUP Seguro GMM (Impte)
+23:55:29: Verificando concepto: 361 FE POUP Seguro GMM (Vt)
+23:55:29: Verificando concepto: 362 FE POUP Seguro Auto (Impte)
+23:55:30: Verificando concepto: 362 FE POUP Seguro Auto (Vt)
+23:55:30: Verificando concepto: 394 SDO Proyec Ajuste anual (Impte)
+23:55:31: Creando concepto
+23:55:32: Diseño de concepto creado correctamente
+23:55:32: Verificando concepto: 394 SDO Proyec Ajuste anual (Vt)
+23:55:33: Creando concepto
+23:55:34: Diseño de concepto creado correctamente
+23:55:34: Verificando concepto: 396 Tope Fondo Anterior (Impte)
+23:55:35: Verificando concepto: 396 Tope Fondo Anterior (Vt)
+23:55:35: Verificando concepto: 410 Vales Despensa. (Impte)
+23:55:36: Creando concepto
+23:55:37: Diseño de concepto creado correctamente
+23:55:37: Verificando concepto: 410 Vales Despensa. (Vt)
+23:55:38: Creando concepto
+23:55:39: Diseño de concepto creado correctamente
+23:55:39: Verificando concepto: 419 P PENSION UP CIA (Impte)
+23:55:40: Verificando concepto: 419 P PENSION UP CIA (Vt)
+23:55:41: Verificando concepto: 420 FDO AHOR CIA (Impte)
+23:55:41: Verificando concepto: 420 FDO AHOR CIA (Vt)
+23:55:42: Verificando concepto: 422 Prov. Prima Vac. (Impte)
+23:55:43: Verificando concepto: 422 Prov. Prima Vac. (Vt)
+23:55:43: Verificando concepto: 423 Prov. IMSS Patronal (Impte)
+23:55:44: Verificando concepto: 423 Prov. IMSS Patronal (Vt)
+23:55:44: Verificando concepto: 424 IXP IMSS (Impte)
+23:55:45: Verificando concepto: 424 IXP IMSS (Vt)
+23:55:46: Verificando concepto: 425 Prov. 5 % Infonavit (Impte)
+23:55:46: Verificando concepto: 425 Prov. 5 % Infonavit (Vt)
+23:55:47: Verificando concepto: 426 Prov. 2% Retiro (Impte)
+23:55:47: Verificando concepto: 426 Prov. 2% Retiro (Vt)
+23:55:48: Verificando concepto: 436 FA Exento (Impte)
+23:55:49: Verificando concepto: 436 FA Exento (Vt)
+23:55:49: Verificando concepto: 437 FA Gravado (Impte)
+23:55:50: Verificando concepto: 437 FA Gravado (Vt)
+23:55:51: Verificando concepto: 442 Prima Vac. Exenta (Impte)
+23:55:51: Verificando concepto: 442 Prima Vac. Exenta (Vt)
+23:55:52: Verificando concepto: 443 Prima Vac. Gravada (Impte)
+23:55:52: Verificando concepto: 443 Prima Vac. Gravada (Vt)
+23:55:53: Verificando concepto: 452 Vales Despensa ExentoISR (Impte)
+23:55:53: Creando concepto
+23:55:55: Diseño de concepto creado correctamente
+23:55:55: Verificando concepto: 452 Vales Despensa ExentoISR (Vt)
+23:55:55: Creando concepto
+23:55:57: Diseño de concepto creado correctamente
+23:55:57: Verificando concepto: 453 Vales Despensa GravadoISR (Impte)
+23:55:57: Creando concepto
+23:55:58: Diseño de concepto creado correctamente
+23:55:58: Verificando concepto: 453 Vales Despensa GravadoISR (Vt)
+23:55:59: Creando concepto
+23:56:00: Diseño de concepto creado correctamente
+23:56:00: Verificando concepto: 466 ISR-Impto. Bruto (Impte)
+23:56:01: Creando concepto
+23:56:03: Diseño de concepto creado correctamente
+23:56:03: Verificando concepto: 466 ISR-Impto. Bruto (Vt)
+23:56:03: Creando concepto
+23:56:04: Diseño de concepto creado correctamente
+23:56:05: Verificando concepto: 467 ISR Impuesto Bruto Anual (Impte)
+23:56:05: Creando concepto
+23:56:06: Diseño de concepto creado correctamente
+23:56:06: Verificando concepto: 467 ISR Impuesto Bruto Anual (Vt)
+23:56:07: Creando concepto
+23:56:08: Diseño de concepto creado correctamente
+23:56:08: Verificando concepto: 474 BG anual (Impte)
+23:56:09: Creando concepto
+23:56:10: Diseño de concepto creado correctamente
+23:56:10: Verificando concepto: 474 BG anual (Vt)
+23:56:10: Creando concepto
+23:56:12: Diseño de concepto creado correctamente
+23:56:12: Verificando concepto: 475 ISR Aplicado Anual (Impte)
+23:56:13: Creando concepto
+23:56:14: Diseño de concepto creado correctamente
+23:56:14: Verificando concepto: 475 ISR Aplicado Anual (Vt)
+23:56:15: Creando concepto
+23:56:16: Diseño de concepto creado correctamente
+23:56:16: Verificando concepto: 476 Subs.Empleo Aplicado (Impte)
+23:56:17: Creando concepto
+23:56:19: Diseño de concepto creado correctamente
+23:56:19: Verificando concepto: 476 Subs.Empleo Aplicado (Vt)
+23:56:19: Creando concepto
+23:56:20: Diseño de concepto creado correctamente
+23:56:21: Verificando concepto: 477 Subs.Empleo Efectiv.Pag. (Impte)
+23:56:21: Creando concepto
+23:56:23: Diseño de concepto creado correctamente
+23:56:23: Verificando concepto: 477 Subs.Empleo Efectiv.Pag. (Vt)
+23:56:24: Creando concepto
+23:56:25: Diseño de concepto creado correctamente
+23:56:25: Verificando concepto: 480 SUB ENF 100% Gr (Impte)
+23:56:26: Verificando concepto: 480 SUB ENF 100% Gr (Vt)
+23:56:27: Verificando concepto: 481 SUB ENF 100% Ex (Impte)
+23:56:28: Verificando concepto: 481 SUB ENF 100% Ex (Vt)
+23:56:28: Verificando concepto: 482 SUB ENF 40% Gr (Impte)
+23:56:29: Verificando concepto: 482 SUB ENF 40% Gr (Vt)
+23:56:30: Verificando concepto: 483 SUB ENF 40% Ex (Impte)
+23:56:30: Verificando concepto: 483 SUB ENF 40% Ex (Vt)
+23:56:31: Verificando concepto: 484 SUB MATERN Gr (Impte)
+23:56:32: Verificando concepto: 484 SUB MATERN Gr (Vt)
+23:56:32: Verificando concepto: 485 SUB MATERN Ex (Impte)
+23:56:33: Verificando concepto: 485 SUB MATERN Ex (Vt)
+23:56:34: Verificando concepto: 490 SUELDO UP (Impte)
+23:56:34: Verificando concepto: 490 SUELDO UP (Vt)
+23:56:35: Verificando concepto: 492 PVacacional (Impte)
+23:56:36: Verificando concepto: 492 PVacacional (Vt)
+23:56:36: Verificando concepto: 493 Inc.Enf General (Impte)
+23:56:37: Verificando concepto: 493 Inc.Enf General (Vt)
+23:56:38: Verificando concepto: 494 Total Pension UP (Impte)
+23:56:38: Verificando concepto: 494 Total Pension UP (Vt)
+23:56:39: Verificando concepto: 495 Base Pension Alimenticia (Impte)
+23:56:39: Verificando concepto: 495 Base Pension Alimenticia (Vt)
+23:56:40: Verificando concepto: 496 Base Gravada (Impte)
+23:56:41: Verificando concepto: 496 Base Gravada (Vt)
+23:56:41: Verificando concepto: 497 Total Percepciones (Impte)
+23:56:42: Verificando concepto: 497 Total Percepciones (Vt)
+23:56:42: Verificando concepto: 498 Total Deducciones (Impte)
+23:56:43: Verificando concepto: 498 Total Deducciones (Vt)
+23:56:44: Verificando concepto: 499 Neto a Pagar (Impte)
+23:56:45: Verificando concepto: 499 Neto a Pagar (Vt)
+23:56:45: Iniciando impresión de información
+00:08:03: Impresión de información termianda con exito
+00:08:03: Enviando correo electrónico
+00:08:04: Configuraciones de correo asignadas correctamente
+00:08:11: Proceso de correo electrónico ejecutado correctamente

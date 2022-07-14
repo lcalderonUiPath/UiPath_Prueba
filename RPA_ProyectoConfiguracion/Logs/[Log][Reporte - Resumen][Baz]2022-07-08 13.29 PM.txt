@@ -1,0 +1,18 @@
+﻿13:29:26: Inicia proceso automatico del robot: [Reporte - Resumen][Baz]
+13:29:26: Enviando correo electrónico
+13:29:27: Configuraciones de correo asignadas correctamente
+13:29:28: Proceso de correo electrónico ejecutado correctamente
+13:29:29: Inicia proceso de lectura de información
+13:29:31: Resumen...
+13:29:35: Flota de unidades nacional...
+13:29:36: Polizas Arrendadora...
+13:29:38: Acumulado PRs...
+13:29:41: Cecos...
+13:29:43: Inicia cruce de información con flota de unidades nacional, registros actuales: 18
+13:29:43: Inicia cruce de información con polizas arrendadora, registros actuales: 18
+13:29:43: Inicia cruce de información con Acumulado PRs, registros actuales: 18
+13:29:43: Generndo template, registros actuales: 18
+13:29:44: Imprimiendo resultados
+13:29:44: Enviando correo electrónico
+13:29:45: Configuraciones de correo asignadas correctamente
+13:29:46: Proceso de correo electrónico ejecutado correctamente

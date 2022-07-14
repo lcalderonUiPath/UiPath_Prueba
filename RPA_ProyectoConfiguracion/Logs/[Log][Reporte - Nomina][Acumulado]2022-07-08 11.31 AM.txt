@@ -1,0 +1,4 @@
+﻿11:31:09: Inicia proceso automatico del robot: [Reporte - Nomina][Acumulado]
+11:31:09: Enviando correo electrónico
+11:31:10: Configuraciones de correo asignadas correctamente
+11:31:12: Proceso de correo electrónico ejecutado correctamente

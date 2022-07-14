@@ -1,0 +1,14 @@
+﻿23:32:04: Inicia proceso automatico del robot: [Reporte - Nomina][Acumulado]
+23:32:04: Enviando correo electrónico
+23:32:05: Configuraciones de correo asignadas correctamente
+23:32:06: Proceso de correo electrónico ejecutado correctamente
+23:32:07: Iniciando conexión con servidor de correo
+23:32:07: Obteniendo mails con el asunto: RPA NOMINA
+23:32:10: Se obtivierón 7 correos validos.
+23:32:10: De acuerdo a la configuración de Asunto, tipo y nombre se ha encontrado un adjunto valido, procediendo con la descarga
+23:32:10: Eliminando archivos temporales
+23:32:10: Guardando archivo
+23:32:10: Proceso de obtención de información terminado
+23:32:11: Inicia proceso para el mes de enero
+23:32:15: Realizando lectura del reporte de nomina
+23:32:18: Validando archivo acumulado existente

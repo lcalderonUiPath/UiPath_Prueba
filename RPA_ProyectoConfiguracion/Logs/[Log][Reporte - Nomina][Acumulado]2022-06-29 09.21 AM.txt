@@ -1,0 +1,474 @@
+﻿09:21:51: Inicia proceso automatico del robot: [Reporte - Nomina][Acumulado]
+09:21:51: Enviando correo electrónico
+09:21:52: Configuraciones de correo asignadas correctamente
+09:21:54: Proceso de correo electrónico ejecutado correctamente
+09:21:54: Iniciando conexión con servidor de correo
+09:21:55: Obteniendo mails con el asunto: RPA NOMINA
+09:21:58: Se obtivierón 10 correos validos.
+09:21:58: De acuerdo a la configuración de Asunto, tipo y nombre se ha encontrado un adjunto valido, procediendo con la descarga
+09:21:58: Eliminando archivos temporales
+09:21:58: Guardando archivo
+09:21:58: Proceso de obtención de información terminado
+09:22:00: Inicia proceso para el mes de enero
+09:22:00: Realizando lectura del reporte de nomina
+09:22:03: Validando archivo acumulado existente
+09:22:03: No existe archivo acumulado previo, archivo nuevo creado.
+09:22:04: Iniciando con la validación de conceptos
+09:22:04: Verificando concepto: 500 SUELDO (Impte)
+09:22:04: Creando concepto
+09:22:04: Imprimiendo columna preconfigurada
+09:22:04: Verificando concepto: 500 SUELDO (Vt)
+09:22:04: Creando concepto
+09:22:04: Diseño de concepto creado correctamente
+09:22:04: Verificando concepto: 505 SUB ENF 100% (Impte)
+09:22:05: Creando concepto
+09:22:05: Diseño de concepto creado correctamente
+09:22:05: Verificando concepto: 505 SUB ENF 100% (Vt)
+09:22:05: Creando concepto
+09:22:06: Diseño de concepto creado correctamente
+09:22:06: Verificando concepto: 506 SUB ENF 40% (Impte)
+09:22:06: Creando concepto
+09:22:06: Diseño de concepto creado correctamente
+09:22:06: Verificando concepto: 506 SUB ENF 40% (Vt)
+09:22:06: Creando concepto
+09:22:07: Diseño de concepto creado correctamente
+09:22:07: Verificando concepto: 507 SUB MATERN (Impte)
+09:22:07: Creando concepto
+09:22:07: Diseño de concepto creado correctamente
+09:22:07: Verificando concepto: 507 SUB MATERN (Vt)
+09:22:08: Creando concepto
+09:22:08: Diseño de concepto creado correctamente
+09:22:08: Verificando concepto: 520 FONDO AHORRO (Impte)
+09:22:08: Creando concepto
+09:22:09: Diseño de concepto creado correctamente
+09:22:09: Verificando concepto: 520 FONDO AHORRO (Vt)
+09:22:09: Creando concepto
+09:22:10: Diseño de concepto creado correctamente
+09:22:10: Verificando concepto: 521 PRIMA VAC (Impte)
+09:22:10: Creando concepto
+09:22:10: Diseño de concepto creado correctamente
+09:22:10: Verificando concepto: 521 PRIMA VAC (Vt)
+09:22:11: Creando concepto
+09:22:11: Diseño de concepto creado correctamente
+09:22:11: Verificando concepto: Neto Percepciones
+09:22:11: Creando concepto
+09:22:12: Diseño de concepto creado correctamente
+09:22:12: Verificando concepto: 700 INCAP ENFERM (Impte)
+09:22:12: Creando concepto
+09:22:12: Diseño de concepto creado correctamente
+09:22:12: Verificando concepto: 700 INCAP ENFERM (Vt)
+09:22:12: Creando concepto
+09:22:13: Diseño de concepto creado correctamente
+09:22:13: Verificando concepto: 701 INCAP MATERN (Impte)
+09:22:13: Creando concepto
+09:22:14: Diseño de concepto creado correctamente
+09:22:14: Verificando concepto: 701 INCAP MATERN (Vt)
+09:22:14: Creando concepto
+09:22:14: Diseño de concepto creado correctamente
+09:22:14: Verificando concepto: 720 CUOTA IMSS E (Impte)
+09:22:14: Creando concepto
+09:22:15: Diseño de concepto creado correctamente
+09:22:15: Verificando concepto: 720 CUOTA IMSS E (Vt)
+09:22:15: Creando concepto
+09:22:15: Diseño de concepto creado correctamente
+09:22:15: Verificando concepto: 725 I.S.R. (Impte)
+09:22:16: Creando concepto
+09:22:16: Diseño de concepto creado correctamente
+09:22:16: Verificando concepto: 725 I.S.R. (Vt)
+09:22:16: Creando concepto
+09:22:17: Diseño de concepto creado correctamente
+09:22:17: Verificando concepto: 740 CRED INFONAV (Impte)
+09:22:17: Creando concepto
+09:22:17: Diseño de concepto creado correctamente
+09:22:17: Verificando concepto: 740 CRED INFONAV (Vt)
+09:22:18: Creando concepto
+09:22:18: Diseño de concepto creado correctamente
+09:22:18: Verificando concepto: 741 FONACOT (Impte)
+09:22:18: Creando concepto
+09:22:19: Diseño de concepto creado correctamente
+09:22:19: Verificando concepto: 741 FONACOT (Vt)
+09:22:19: Creando concepto
+09:22:19: Diseño de concepto creado correctamente
+09:22:19: Verificando concepto: 742 FDO AHOR EMP (Impte)
+09:22:20: Creando concepto
+09:22:20: Diseño de concepto creado correctamente
+09:22:20: Verificando concepto: 742 FDO AHOR EMP (Vt)
+09:22:20: Creando concepto
+09:22:21: Diseño de concepto creado correctamente
+09:22:21: Verificando concepto: 743 F AO (Impte)
+09:22:21: Creando concepto
+09:22:21: Diseño de concepto creado correctamente
+09:22:22: Verificando concepto: 743 F AO (Vt)
+09:22:22: Creando concepto
+09:22:22: Diseño de concepto creado correctamente
+09:22:22: Verificando concepto: 744 P PENSION (Impte)
+09:22:22: Creando concepto
+09:22:23: Diseño de concepto creado correctamente
+09:22:23: Verificando concepto: 744 P PENSION (Vt)
+09:22:23: Creando concepto
+09:22:24: Diseño de concepto creado correctamente
+09:22:24: Verificando concepto: 746 PENSION T-I (Impte)
+09:22:24: Creando concepto
+09:22:24: Diseño de concepto creado correctamente
+09:22:24: Verificando concepto: 746 PENSION T-I (Vt)
+09:22:24: Creando concepto
+09:22:25: Diseño de concepto creado correctamente
+09:22:25: Verificando concepto: 750 AJ_INFONAVIT (Impte)
+09:22:25: Creando concepto
+09:22:26: Diseño de concepto creado correctamente
+09:22:26: Verificando concepto: 750 AJ_INFONAVIT (Vt)
+09:22:26: Creando concepto
+09:22:26: Diseño de concepto creado correctamente
+09:22:26: Verificando concepto: 752 ORDINARIO (Impte)
+09:22:27: Creando concepto
+09:22:27: Diseño de concepto creado correctamente
+09:22:27: Verificando concepto: 752 ORDINARIO (Vt)
+09:22:27: Creando concepto
+09:22:28: Diseño de concepto creado correctamente
+09:22:28: Verificando concepto: 753 ORDINARIO FUERA (Impte)
+09:22:28: Creando concepto
+09:22:28: Diseño de concepto creado correctamente
+09:22:28: Verificando concepto: 753 ORDINARIO FUERA (Vt)
+09:22:29: Creando concepto
+09:22:29: Diseño de concepto creado correctamente
+09:22:29: Verificando concepto: 754 CORTO PLAZO (Impte)
+09:22:29: Creando concepto
+09:22:30: Diseño de concepto creado correctamente
+09:22:30: Verificando concepto: 754 CORTO PLAZO (Vt)
+09:22:30: Creando concepto
+09:22:31: Diseño de concepto creado correctamente
+09:22:31: Verificando concepto: 758 EQUIPO DE COMPUTO (Impte)
+09:22:31: Creando concepto
+09:22:31: Diseño de concepto creado correctamente
+09:22:31: Verificando concepto: 758 EQUIPO DE COMPUTO (Vt)
+09:22:32: Creando concepto
+09:22:32: Diseño de concepto creado correctamente
+09:22:32: Verificando concepto: 760 SEDAVI (Impte)
+09:22:32: Creando concepto
+09:22:33: Diseño de concepto creado correctamente
+09:22:33: Verificando concepto: 760 SEDAVI (Vt)
+09:22:33: Creando concepto
+09:22:33: Diseño de concepto creado correctamente
+09:22:34: Verificando concepto: 761 SEG GTOS MED (Impte)
+09:22:34: Creando concepto
+09:22:34: Diseño de concepto creado correctamente
+09:22:34: Verificando concepto: 761 SEG GTOS MED (Vt)
+09:22:34: Creando concepto
+09:22:35: Diseño de concepto creado correctamente
+09:22:35: Verificando concepto: 762 SEGURO AUTO (Impte)
+09:22:35: Creando concepto
+09:22:36: Diseño de concepto creado correctamente
+09:22:36: Verificando concepto: 762 SEGURO AUTO (Vt)
+09:22:36: Creando concepto
+09:22:36: Diseño de concepto creado correctamente
+09:22:36: Verificando concepto: 780 EXTRAORDINARIO (Impte)
+09:22:36: Creando concepto
+09:22:37: Diseño de concepto creado correctamente
+09:22:37: Verificando concepto: 780 EXTRAORDINARIO (Vt)
+09:22:37: Creando concepto
+09:22:38: Diseño de concepto creado correctamente
+09:22:38: Verificando concepto: 781 PENSION ALIMENTICIA (Impte)
+09:22:38: Creando concepto
+09:22:38: Diseño de concepto creado correctamente
+09:22:38: Verificando concepto: 781 PENSION ALIMENTICIA (Vt)
+09:22:39: Creando concepto
+09:22:39: Diseño de concepto creado correctamente
+09:22:39: Verificando concepto: Neto Deducciones
+09:22:39: Creando concepto
+09:22:40: Diseño de concepto creado correctamente
+09:22:40: Verificando concepto: Importe Neto
+09:22:40: Creando concepto
+09:22:41: Diseño de concepto creado correctamente
+09:22:41: Verificando concepto: 300 EYM Cuota Fija Patron (Impte)
+09:22:41: Creando concepto
+09:22:41: Diseño de concepto creado correctamente
+09:22:41: Verificando concepto: 300 EYM Cuota Fija Patron (Vt)
+09:22:42: Creando concepto
+09:22:42: Diseño de concepto creado correctamente
+09:22:42: Verificando concepto: 301 EYM Excedente Patron (Impte)
+09:22:42: Creando concepto
+09:22:43: Diseño de concepto creado correctamente
+09:22:43: Verificando concepto: 301 EYM Excedente Patron (Vt)
+09:22:43: Creando concepto
+09:22:44: Diseño de concepto creado correctamente
+09:22:44: Verificando concepto: 302 EYM Prest Dinero Patron (Impte)
+09:22:44: Creando concepto
+09:22:44: Diseño de concepto creado correctamente
+09:22:44: Verificando concepto: 302 EYM Prest Dinero Patron (Vt)
+09:22:45: Creando concepto
+09:22:45: Diseño de concepto creado correctamente
+09:22:45: Verificando concepto: 303 EYM Especie Patron (Impte)
+09:22:45: Creando concepto
+09:22:46: Diseño de concepto creado correctamente
+09:22:46: Verificando concepto: 303 EYM Especie Patron (Vt)
+09:22:46: Creando concepto
+09:22:47: Diseño de concepto creado correctamente
+09:22:47: Verificando concepto: 304 Inv y Vida Patron (Impte)
+09:22:47: Creando concepto
+09:22:47: Diseño de concepto creado correctamente
+09:22:47: Verificando concepto: 304 Inv y Vida Patron (Vt)
+09:22:48: Creando concepto
+09:22:48: Diseño de concepto creado correctamente
+09:22:48: Verificando concepto: 305 Cesantia y Vejez Patron (Impte)
+09:22:48: Creando concepto
+09:22:49: Diseño de concepto creado correctamente
+09:22:49: Verificando concepto: 305 Cesantia y Vejez Patron (Vt)
+09:22:49: Creando concepto
+09:22:49: Diseño de concepto creado correctamente
+09:22:50: Verificando concepto: 306 Guarderias Patron (Impte)
+09:22:50: Creando concepto
+09:22:50: Diseño de concepto creado correctamente
+09:22:50: Verificando concepto: 306 Guarderias Patron (Vt)
+09:22:51: Creando concepto
+09:22:51: Diseño de concepto creado correctamente
+09:22:51: Verificando concepto: 307 Riesgo Trabajo Patron (Impte)
+09:22:51: Creando concepto
+09:22:52: Diseño de concepto creado correctamente
+09:22:52: Verificando concepto: 307 Riesgo Trabajo Patron (Vt)
+09:22:52: Creando concepto
+09:22:52: Diseño de concepto creado correctamente
+09:22:53: Verificando concepto: 308 EYM E3S EMP (Impte)
+09:22:53: Creando concepto
+09:22:53: Diseño de concepto creado correctamente
+09:22:53: Verificando concepto: 308 EYM E3S EMP (Vt)
+09:22:54: Creando concepto
+09:22:54: Diseño de concepto creado correctamente
+09:22:54: Verificando concepto: 309 EYM PD EMP (Impte)
+09:22:54: Creando concepto
+09:22:55: Diseño de concepto creado correctamente
+09:22:55: Verificando concepto: 309 EYM PD EMP (Vt)
+09:22:55: Creando concepto
+09:22:56: Diseño de concepto creado correctamente
+09:22:56: Verificando concepto: 310 EYM PE EMP (Impte)
+09:22:56: Creando concepto
+09:22:56: Diseño de concepto creado correctamente
+09:22:57: Verificando concepto: 310 EYM PE EMP (Vt)
+09:22:57: Creando concepto
+09:22:57: Diseño de concepto creado correctamente
+09:22:57: Verificando concepto: 311 IYV EMP (Impte)
+09:22:57: Creando concepto
+09:22:58: Diseño de concepto creado correctamente
+09:22:58: Verificando concepto: 311 IYV EMP (Vt)
+09:22:58: Creando concepto
+09:22:59: Diseño de concepto creado correctamente
+09:22:59: Verificando concepto: 312 CYV EMP (Impte)
+09:22:59: Creando concepto
+09:23:00: Diseño de concepto creado correctamente
+09:23:00: Verificando concepto: 312 CYV EMP (Vt)
+09:23:00: Creando concepto
+09:23:01: Diseño de concepto creado correctamente
+09:23:01: Verificando concepto: 315 PROV SEGURO SOCIAL (Impte)
+09:23:01: Creando concepto
+09:23:01: Diseño de concepto creado correctamente
+09:23:01: Verificando concepto: 315 PROV SEGURO SOCIAL (Vt)
+09:23:02: Creando concepto
+09:23:02: Diseño de concepto creado correctamente
+09:23:02: Verificando concepto: 316 PROV SAR (Impte)
+09:23:02: Creando concepto
+09:23:03: Diseño de concepto creado correctamente
+09:23:03: Verificando concepto: 316 PROV SAR (Vt)
+09:23:03: Creando concepto
+09:23:04: Diseño de concepto creado correctamente
+09:23:04: Verificando concepto: 317 PROV INFONAVIT (Impte)
+09:23:04: Creando concepto
+09:23:04: Diseño de concepto creado correctamente
+09:23:04: Verificando concepto: 317 PROV INFONAVIT (Vt)
+09:23:05: Creando concepto
+09:23:05: Diseño de concepto creado correctamente
+09:23:05: Verificando concepto: 318 PROV CESANTIA (Impte)
+09:23:05: Creando concepto
+09:23:06: Diseño de concepto creado correctamente
+09:23:06: Verificando concepto: 318 PROV CESANTIA (Vt)
+09:23:06: Creando concepto
+09:23:07: Diseño de concepto creado correctamente
+09:23:07: Verificando concepto: 319 Base Impuesto Estatal (Impte)
+09:23:07: Creando concepto
+09:23:08: Diseño de concepto creado correctamente
+09:23:08: Verificando concepto: 319 Base Impuesto Estatal (Vt)
+09:23:08: Creando concepto
+09:23:09: Diseño de concepto creado correctamente
+09:23:09: Verificando concepto: 329 Impto Estatal CDMX (Impte)
+09:23:09: Creando concepto
+09:23:09: Diseño de concepto creado correctamente
+09:23:09: Verificando concepto: 329 Impto Estatal CDMX (Vt)
+09:23:10: Creando concepto
+09:23:10: Diseño de concepto creado correctamente
+09:23:10: Verificando concepto: 361 FE POUP Seguro GMM (Impte)
+09:23:10: Creando concepto
+09:23:11: Diseño de concepto creado correctamente
+09:23:11: Verificando concepto: 361 FE POUP Seguro GMM (Vt)
+09:23:11: Creando concepto
+09:23:12: Diseño de concepto creado correctamente
+09:23:12: Verificando concepto: 362 FE POUP Seguro Auto (Impte)
+09:23:12: Creando concepto
+09:23:12: Diseño de concepto creado correctamente
+09:23:12: Verificando concepto: 362 FE POUP Seguro Auto (Vt)
+09:23:13: Creando concepto
+09:23:13: Diseño de concepto creado correctamente
+09:23:13: Verificando concepto: 396 Tope Fondo Anterior (Impte)
+09:23:13: Creando concepto
+09:23:14: Diseño de concepto creado correctamente
+09:23:14: Verificando concepto: 396 Tope Fondo Anterior (Vt)
+09:23:14: Creando concepto
+09:23:15: Diseño de concepto creado correctamente
+09:23:15: Verificando concepto: 419 P PENSION UP CIA (Impte)
+09:23:15: Creando concepto
+09:23:16: Diseño de concepto creado correctamente
+09:23:16: Verificando concepto: 419 P PENSION UP CIA (Vt)
+09:23:16: Creando concepto
+09:23:16: Diseño de concepto creado correctamente
+09:23:16: Verificando concepto: 420 FDO AHOR CIA (Impte)
+09:23:17: Creando concepto
+09:23:17: Diseño de concepto creado correctamente
+09:23:17: Verificando concepto: 420 FDO AHOR CIA (Vt)
+09:23:18: Creando concepto
+09:23:18: Diseño de concepto creado correctamente
+09:23:18: Verificando concepto: 422 Prov. Prima Vac. (Impte)
+09:23:18: Creando concepto
+09:23:19: Diseño de concepto creado correctamente
+09:23:19: Verificando concepto: 422 Prov. Prima Vac. (Vt)
+09:23:19: Creando concepto
+09:23:20: Diseño de concepto creado correctamente
+09:23:20: Verificando concepto: 423 Prov. IMSS Patronal (Impte)
+09:23:20: Creando concepto
+09:23:21: Diseño de concepto creado correctamente
+09:23:21: Verificando concepto: 423 Prov. IMSS Patronal (Vt)
+09:23:21: Creando concepto
+09:23:21: Diseño de concepto creado correctamente
+09:23:21: Verificando concepto: 424 IXP IMSS (Impte)
+09:23:22: Creando concepto
+09:23:22: Diseño de concepto creado correctamente
+09:23:22: Verificando concepto: 424 IXP IMSS (Vt)
+09:23:22: Creando concepto
+09:23:23: Diseño de concepto creado correctamente
+09:23:23: Verificando concepto: 425 Prov. 5 % Infonavit (Impte)
+09:23:23: Creando concepto
+09:23:24: Diseño de concepto creado correctamente
+09:23:24: Verificando concepto: 425 Prov. 5 % Infonavit (Vt)
+09:23:24: Creando concepto
+09:23:25: Diseño de concepto creado correctamente
+09:23:25: Verificando concepto: 426 Prov. 2% Retiro (Impte)
+09:23:25: Creando concepto
+09:23:25: Diseño de concepto creado correctamente
+09:23:26: Verificando concepto: 426 Prov. 2% Retiro (Vt)
+09:23:26: Creando concepto
+09:23:26: Diseño de concepto creado correctamente
+09:23:26: Verificando concepto: 436 FA Exento (Impte)
+09:23:27: Creando concepto
+09:23:27: Diseño de concepto creado correctamente
+09:23:27: Verificando concepto: 436 FA Exento (Vt)
+09:23:27: Creando concepto
+09:23:28: Diseño de concepto creado correctamente
+09:23:28: Verificando concepto: 437 FA Gravado (Impte)
+09:23:28: Creando concepto
+09:23:29: Diseño de concepto creado correctamente
+09:23:29: Verificando concepto: 437 FA Gravado (Vt)
+09:23:29: Creando concepto
+09:23:30: Diseño de concepto creado correctamente
+09:23:30: Verificando concepto: 442 Prima Vac. Exenta (Impte)
+09:23:30: Creando concepto
+09:23:30: Diseño de concepto creado correctamente
+09:23:30: Verificando concepto: 442 Prima Vac. Exenta (Vt)
+09:23:31: Creando concepto
+09:23:31: Diseño de concepto creado correctamente
+09:23:31: Verificando concepto: 443 Prima Vac. Gravada (Impte)
+09:23:31: Creando concepto
+09:23:32: Diseño de concepto creado correctamente
+09:23:32: Verificando concepto: 443 Prima Vac. Gravada (Vt)
+09:23:32: Creando concepto
+09:23:33: Diseño de concepto creado correctamente
+09:23:33: Verificando concepto: 480 SUB ENF 100% Gr (Impte)
+09:23:33: Creando concepto
+09:23:33: Diseño de concepto creado correctamente
+09:23:33: Verificando concepto: 480 SUB ENF 100% Gr (Vt)
+09:23:34: Creando concepto
+09:23:34: Diseño de concepto creado correctamente
+09:23:34: Verificando concepto: 481 SUB ENF 100% Ex (Impte)
+09:23:35: Creando concepto
+09:23:35: Diseño de concepto creado correctamente
+09:23:35: Verificando concepto: 481 SUB ENF 100% Ex (Vt)
+09:23:36: Creando concepto
+09:23:36: Diseño de concepto creado correctamente
+09:23:36: Verificando concepto: 482 SUB ENF 40% Gr (Impte)
+09:23:37: Creando concepto
+09:23:37: Diseño de concepto creado correctamente
+09:23:37: Verificando concepto: 482 SUB ENF 40% Gr (Vt)
+09:23:37: Creando concepto
+09:23:38: Diseño de concepto creado correctamente
+09:23:38: Verificando concepto: 483 SUB ENF 40% Ex (Impte)
+09:23:38: Creando concepto
+09:23:39: Diseño de concepto creado correctamente
+09:23:39: Verificando concepto: 483 SUB ENF 40% Ex (Vt)
+09:23:39: Creando concepto
+09:23:40: Diseño de concepto creado correctamente
+09:23:40: Verificando concepto: 484 SUB MATERN Gr (Impte)
+09:23:40: Creando concepto
+09:23:41: Diseño de concepto creado correctamente
+09:23:41: Verificando concepto: 484 SUB MATERN Gr (Vt)
+09:23:41: Creando concepto
+09:23:41: Diseño de concepto creado correctamente
+09:23:41: Verificando concepto: 485 SUB MATERN Ex (Impte)
+09:23:42: Creando concepto
+09:23:42: Diseño de concepto creado correctamente
+09:23:42: Verificando concepto: 485 SUB MATERN Ex (Vt)
+09:23:43: Creando concepto
+09:23:43: Diseño de concepto creado correctamente
+09:23:43: Verificando concepto: 490 SUELDO UP (Impte)
+09:23:44: Creando concepto
+09:23:44: Diseño de concepto creado correctamente
+09:23:44: Verificando concepto: 490 SUELDO UP (Vt)
+09:23:45: Creando concepto
+09:23:45: Diseño de concepto creado correctamente
+09:23:45: Verificando concepto: 492 PVacacional (Impte)
+09:23:46: Creando concepto
+09:23:46: Diseño de concepto creado correctamente
+09:23:46: Verificando concepto: 492 PVacacional (Vt)
+09:23:46: Creando concepto
+09:23:47: Diseño de concepto creado correctamente
+09:23:47: Verificando concepto: 493 Inc.Enf General (Impte)
+09:23:47: Creando concepto
+09:23:48: Diseño de concepto creado correctamente
+09:23:48: Verificando concepto: 493 Inc.Enf General (Vt)
+09:23:48: Creando concepto
+09:23:49: Diseño de concepto creado correctamente
+09:23:49: Verificando concepto: 494 Total Pension UP (Impte)
+09:23:49: Creando concepto
+09:23:50: Diseño de concepto creado correctamente
+09:23:50: Verificando concepto: 494 Total Pension UP (Vt)
+09:23:50: Creando concepto
+09:23:50: Diseño de concepto creado correctamente
+09:23:51: Verificando concepto: 495 Base Pension Alimenticia (Impte)
+09:23:51: Creando concepto
+09:23:51: Diseño de concepto creado correctamente
+09:23:52: Verificando concepto: 495 Base Pension Alimenticia (Vt)
+09:23:52: Creando concepto
+09:23:52: Diseño de concepto creado correctamente
+09:23:52: Verificando concepto: 496 Base Gravada (Impte)
+09:23:53: Creando concepto
+09:23:53: Diseño de concepto creado correctamente
+09:23:53: Verificando concepto: 496 Base Gravada (Vt)
+09:23:53: Creando concepto
+09:23:54: Diseño de concepto creado correctamente
+09:23:54: Verificando concepto: 497 Total Percepciones (Impte)
+09:23:54: Creando concepto
+09:23:55: Diseño de concepto creado correctamente
+09:23:55: Verificando concepto: 497 Total Percepciones (Vt)
+09:23:55: Creando concepto
+09:23:56: Diseño de concepto creado correctamente
+09:23:56: Verificando concepto: 498 Total Deducciones (Impte)
+09:23:56: Creando concepto
+09:23:57: Diseño de concepto creado correctamente
+09:23:57: Verificando concepto: 498 Total Deducciones (Vt)
+09:23:57: Creando concepto
+09:23:57: Diseño de concepto creado correctamente
+09:23:57: Verificando concepto: 499 Neto a Pagar (Impte)
+09:23:58: Creando concepto
+09:23:58: Diseño de concepto creado correctamente
+09:23:58: Verificando concepto: 499 Neto a Pagar (Vt)
+09:23:58: Creando concepto
+09:23:59: Diseño de concepto creado correctamente
+09:23:59: Iniciando impresión de información
+09:28:56: Impresión de información termianda con exito
+09:28:56: Enviando correo electrónico
+09:28:57: Configuraciones de correo asignadas correctamente
+09:29:03: Proceso de correo electrónico ejecutado correctamente
